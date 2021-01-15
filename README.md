@@ -13,3 +13,5 @@ Creació de les seguents rames utilitzant Gitflow a traves de gitKraken:
 -Programació
 
 -Utilitzar el main i ficar un index.
+
+Creació de conflictes. Tant Kim com jo varem crear un conflicte amb el readme. Totes dues varem modificar el document a la mateixa vegada.
